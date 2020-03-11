@@ -1,4 +1,4 @@
-# [![Flutter logo][]][flutter.dev]
+# [![TOT_logo][]][TOT.web]
 
 [![Build Status - Cirrus][]][Build status]
 [![Gitter Channel][]][Gitter badge]
@@ -67,8 +67,8 @@ Flutter is a fully open source project, and we welcome contributions.
 Information on how to get started can be found at our
 [contributor guide](CONTRIBUTING.md).
 
-[Flutter logo]: https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png
-[flutter.dev]: https://flutter.dev
+[TOT_logo]: https://www.tot.co.th/images/default-source/default-album/about-tot/splash-page/2020/tot-birthday/sp_web_content2.png
+[TOT.web]: https://tot.co.th
 [Build Status - Cirrus]: https://api.cirrus-ci.com/github/flutter/flutter.svg
 [Build status]: https://cirrus-ci.com/github/flutter/flutter/master
 [Gitter Channel]: https://badges.gitter.im/flutter/flutter.svg
