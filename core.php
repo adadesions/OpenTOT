@@ -1,3 +1,4 @@
+
 function msgfunc(a){
 
 //alert
@@ -9,6 +10,14 @@ function msgfunc(a){
 }
                       
 function minus-feature(a,b){
+
+
+function addition($a,$b){
+	    $result = $a+$b;
+    return $result;
+
+	function minus-feature(a,b){
+
         	return a-b;
    	}
 
