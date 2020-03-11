@@ -8,7 +8,8 @@ function msgfunc(a){
 
 	function minus-feature(a,b){
         	return a-b;
-   	}
+	}
+
 	function Division($a, $b){
             
             if($a ==  0 or $b ==  0){
@@ -18,7 +19,6 @@ function msgfunc(a){
                 return ($b/ $a);
             }
 	}
-	echo Division(4,2);
 
 
 
@@ -39,11 +39,12 @@ function addition($a,$b){
 	    $result = $a+$b;
     return $result;
 
+}
 
-	function minus-feature(a,b){
+function minus-feature(a,b){
 
         	return a-b;
-   	}
+   	
 
 }
 
@@ -53,10 +54,12 @@ function fucCosine($x){
    $res = cos($x);
    return $res;
 
+}
 
         function multiply(a, b) {
                 return a*b;
     }
+
         function pow($base,$exp) {
                 $result=1;
                if($exp==0){
