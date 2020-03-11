@@ -1,17 +1,12 @@
 
 function msgfunc(a){
 
-//alert
-
 	alert('Hello');
 
 	print('Hello');
   
 }
                       
-function minus-feature(a,b){
-
-
 
 function Log10n($n) {
   return log10($n);
