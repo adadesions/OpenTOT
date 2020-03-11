@@ -1,9 +1,15 @@
-<?php
 
+function msgfunc(a){
+
+	return 'Hello';
+  
+}
+                      
 
 	function minus-feature(a,b){
         	return a-b;
-   	}
+	}
+
 	function Division($a, $b){
             
             if($a ==  0 or $b ==  0){
@@ -13,7 +19,6 @@
                 return ($b/ $a);
             }
 	}
-	echo Division(4,2);
 
 
 
@@ -33,17 +38,28 @@ function minus-feature(a,b){
 function addition($a,$b){
 	    $result = $a+$b;
     return $result;
+
 }
+
+function minus-feature(a,b){
+
+        	return a-b;
+   	
+
+}
+
 
 
 function fucCosine($x){
    $res = cos($x);
    return $res;
 
+}
 
         function multiply(a, b) {
                 return a*b;
     }
+
         function pow($base,$exp) {
                 $result=1;
                if($exp==0){
@@ -61,12 +77,18 @@ function fucCosine($x){
 
         function SRoot(num){
     document.getElementById("SRoot").innerHTML = Math.sqrt(num); 
+
+
+}
+
     }
+
+
 
 	function percent($a,$b){
 		return ($a/100)*$b
 	}
 
-?>
+
 
 
