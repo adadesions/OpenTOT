@@ -7,3 +7,8 @@ function SRoot(num){
 }
 </script>
 
+function SRoot($num){
+    $result = sqrt($num); 
+    return $result;
+}
+
